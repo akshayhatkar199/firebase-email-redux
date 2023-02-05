@@ -1,0 +1,19 @@
+.login-div{
+    background-image: url("../../image/webndevelop-image.gif");
+    height: 100vh;
+    /* background-color: #97979787; */
+    padding-top: 142px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card-login{
+    margin-left: 32px;
+    margin-right: 32px;
+    padding: 10px;
+    
+}
+.login-tittle{
+    text-align: center;
+font-size: 24px;
+background: linear-gradient(1deg, #a9b1f3, transparent);
+}

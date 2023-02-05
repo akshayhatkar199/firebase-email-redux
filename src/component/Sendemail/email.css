@@ -1,0 +1,14 @@
+.card-email{
+    margin-left: 32px;
+    margin-right: 32px;
+    padding: 5px
+}
+.email-tittle{
+text-align: center;
+font-size: 24px;
+background: linear-gradient(1deg, #897878, transparent);
+}
+
+.card-email{
+margin-top: 90px;
+}
